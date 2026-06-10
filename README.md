@@ -91,24 +91,24 @@ I'm a passionate **Data Science student** and aspiring **AI & Machine Learning**
 
 <div align="center">
 
-### 📌 Project 1: [Project Name]
-**Description:** Brief project description here - what problem it solves and its impact.  
-**Tech Stack:** Python | Django | SQL | Machine Learning  
-[🔗 Repository Link](#) | [🌐 Live Demo](#)
+### 📌 Blood Donation Management System
+**Description:** A comprehensive platform connecting blood donors with patients in need. Features donor data management, blood availability tracking, emergency prioritization, and analytics dashboard for efficient healthcare delivery.  
+**Tech Stack:** Flask | MySQL | Python | Backend Logic | Database Systems  
+[🔗 Repository](https://github.com/Vamshik07/blood-donation-management-system) | 📊 Healthcare Solution
 
 ---
 
-### 📌 Project 2: [Project Name]
-**Description:** Brief project description here - key features and technologies used.  
-**Tech Stack:** Python | Pandas | Scikit-learn | Power BI  
-[🔗 Repository Link](#) | [🌐 Live Demo](#)
+### 📌 MarketMind AI
+**Description:** AI-powered market analysis platform that analyzes market trends and provides actionable insights using advanced data analytics and machine learning to support investment decision-making.  
+**Tech Stack:** Python | Pandas | Scikit-learn | Data Analysis | AI Models  
+[🔗 Repository](https://github.com/Vamshik07/marketmind) | 📈 Financial Analytics
 
 ---
 
-### 📌 Project 3: [Project Name]
-**Description:** Brief project description here - your role and project outcomes.  
-**Tech Stack:** HTML | CSS | JavaScript | Django | Firebase  
-[🔗 Repository Link](#) | [🌐 Live Demo](#)
+### 📌 Intelli-Credit AI
+**Description:** An innovative AI-powered corporate credit appraisal system that analyzes financial documents, extracts insights, and generates risk scores using AI agents. Won 3rd Prize at Gen-AI Forge Hackathon 2026.  
+**Tech Stack:** FastAPI | React | LangGraph | MongoDB | Google Gemini AI | OCR | Python  
+[🔗 Repository](https://github.com/Vamshik07/Intelli-Credit-AI) | 🏆 Gen-AI Hackathon Winner
 
 </div>
 

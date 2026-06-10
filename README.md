@@ -14,6 +14,8 @@
 
 ## 👤 **ABOUT ME**
 
+<div style="font-family: 'Times New Roman', Times, serif;">
+
 I'm a passionate **Data Science Student** with a strong foundation in building data-driven solutions. My journey combines analytical prowess with practical development skills. I specialize in transforming complex problems into intelligent systems using **Python, Machine Learning, and modern web technologies**.
 
 ### 🎯 **What I Do:**
@@ -23,6 +25,8 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 - 💻 **Web Development** — Create interactive applications with Django & FastAPI
 - 📈 **Problem Solving** — Tackle real-world challenges with creative solutions
 - 🚀 **Continuous Learning** — Always exploring new technologies and methodologies
+
+</div>
 
 ### 🌟 **Quick Facts About Me:**
 
@@ -188,16 +192,16 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ## 📊 **GITHUB STATISTICS**
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=VamshiK07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B5CF6&text_color=8B949E&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" width="48%" />
 <img src="https://streak-stats.demolab.com?user=VamshiK07&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F43F5E&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
 
 </div>
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiK07&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiK07&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&layout=compact&langs_count=8" alt="Top Languages" width="70%" />
 
 </div>
 
@@ -237,7 +241,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ## 🚀 **CURRENT LEARNING PATH**
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
 | 🎯 Skill | 📊 Progress |
 |---------|------------|
@@ -257,7 +261,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ## 🎓 **CERTIFICATIONS & ACHIEVEMENTS**
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
 🏅 **Research Analyst Certification Program** — *StockGro Academy* (2026)
 
@@ -281,11 +285,15 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ## 💬 **LET'S CONNECT**
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
 I'm always interested in collaborating on exciting **Data Science**, **Machine Learning**, and **Web Development** projects. Whether you want to discuss technology, explore new ideas, or work together on a project, feel free to reach out!
 
 ### 📞 **Contact Information**
+
+</div>
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email%3A%20ambativamshi743%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambativamshi743@gmail.com)
 
@@ -295,11 +303,15 @@ I'm always interested in collaborating on exciting **Data Science**, **Machine L
 
 [![GitHub](https://img.shields.io/badge/GitHub%3A%20VamshiK07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VamshiK07)
 
+</div>
+
 ### 🌟 **Closing Statement**
+
+<div style="font-family: 'Times New Roman', Times, serif;">
 
 > *"Always learning, building, and exploring the world of Data Science, AI, and Machine Learning. Every dataset tells a story, and I'm here to uncover insights that drive real-world impact."*
 
----
+</div>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 

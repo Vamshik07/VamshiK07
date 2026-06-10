@@ -67,6 +67,21 @@ I'm a passionate **Data Science student** and aspiring **AI & Machine Learning**
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</div>
+
+### 🔧 Additional Tech
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/REST%20APIs-009999?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/OCR-FF6347?style=for-the-badge&logo=tesseract&logoColor=white" alt="OCR">
 </div>
 
 ---
@@ -83,6 +98,50 @@ I'm a passionate **Data Science student** and aspiring **AI & Machine Learning**
   <a href="mailto:ambativamshi743@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</div>
+
+---
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+### **B.Tech – Computer Science & Data Science**
+**Marri Laxman Reddy Institute of Technology and Management, Hyderabad**  
+July 2024 – Present | 📍 Hyderabad, India
+
+### **Diploma – Electronics & Communication Engineering**  
+**Annamacharya Institute of Technology, Hyderabad**  
+2021 – 2024
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🎖️ Certification | 🏢 Issuer | 📅 Date |
+|:---:|:---:|:---:|
+| **Gen-AI Forge Hackathon** 🥉 3rd Prize Winner | MLRITM / PACE | Jan 2026 |
+| **Research Analyst Program** | StockGro Academy | Jan 2026 |
+| **Accelerated Data Science Fundamentals** | NVIDIA | Jan 2026 |
+| **Python Programming Training** | Internshala Trainings | Feb 2025 |
+| **Java Full Stack Virtual Internship** | EduSkills Academy | Dec 2025 |
+| **C Programming - Certificate of Merit** | Sanfoundry | Mar 2025 |
+
+</div>
+
+---
+
+## 💼 Current Status
+
+<div align="center">
+  <h3>🚀 AVAILABLE FOR INTERNSHIP / FULL-TIME OPPORTUNITIES</h3>
+  <p><strong>102 Contributions</strong> in the last year | <strong>13 Repositories</strong> | <strong>Data Science & AI Focused</strong></p>
 </div>
 
 ---
@@ -150,8 +209,12 @@ I'm a passionate **Data Science student** and aspiring **AI & Machine Learning**
 I'm always interested in collaborating on exciting data science, machine learning, and web development projects. Whether you want to discuss technology, explore new ideas, or work together on a project, feel free to reach out!
 
 **📧 Email:** [ambativamshi743@gmail.com](mailto:ambativamshi743@gmail.com)  
+**� Phone:** +91 8688904629  
+**📍 Location:** Hyderabad, India  
 **💼 LinkedIn:** [Vamshi Krishna Ambati](https://www.linkedin.com/in/vamshi-krishna-ambati-20800a3b6/)  
 **🌐 Portfolio:** [My Portfolio](https://vamshi-portfolio-z6x3.onrender.com/)
+
+**Status:** 🟢 Available for Internship & Full-time Opportunities
 
 </div>
 

@@ -2,8 +2,6 @@
 
 ![Ambati Vamshi Krishna](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ambati%20Vamshi%20Krishna&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Engineer&descSize=18&descAlignY=55)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=VamshiK07&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/VamshiK07)
-
 </div>
 
 <div align="center">

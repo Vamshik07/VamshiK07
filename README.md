@@ -156,7 +156,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ### 🏦 **Intelli-Credit AI**
 
-[![Repository: Intelli-Credit AI](https://img.shields.io/badge/Repository-Intelli-Credit%20AI-8B5CF6?logo=github&style=for-the-badge)](https://github.com/VamshiK07/Intelli-Credit-AI)
+[![Repository: Intelli-Credit AI](https://img.shields.io/badge/Repository-Intelli--Credit%20AI-8B5CF6?logo=github&style=for-the-badge)](https://github.com/VamshiK07/Intelli-Credit-AI)
 
 **AI-powered corporate credit appraisal platform** that analyzes financial documents, extracts insights, and generates risk scores and credit recommendations using advanced AI agents and document processing.
 

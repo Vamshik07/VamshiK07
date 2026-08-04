@@ -1,13 +1,14 @@
 <div align="center">
-
-![Ambati Vamshi Krishna](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ambati%20Vamshi%20Krishna&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Engineer&descSize=18&descAlignY=55)
-
+  <h1>👋 Ambati Vamshi Krishna</h1>
+  <h3>Data Science | AI | ML Engineer</h3>
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hey%2C+I'm+Ambati+Vamshi+Krishna;📊+Data+Science+Student;🤖+AI+%26+Machine+Learning+Enthusiast;🌐+Full-Stack+Developer;🚀+Building+Real-World+AI+Projects;💡+Turning+Data+into+Decisions)](https://github.com/VamshiK07)
-
+  <p>
+    <strong>Hey, I'm Ambati Vamshi Krishna</strong><br>
+    📊 Data Science Student • 🤖 AI & ML Enthusiast<br>
+    🌐 Full-Stack Developer • 🚀 Building Real-World AI Projects
+  </p>
 </div>
 
 ---
@@ -43,16 +44,14 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ---
 
-![Wave Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=2)
+---
 
 ---
 
 ## 🛠️ **TECH STACK**
 
 <div align="center">
-
-[![Skillicons](https://skillicons.dev/icons?i=python,js,html,css,django,mysql,git,github,firebase,vscode,tensorflow,sklearn&theme=dark&perline=10)](https://github.com/VamshiK07)
-
+  <p><strong>Python • JavaScript • HTML/CSS • Django • MySQL • Git • GitHub • Firebase • VS Code • TensorFlow • scikit-learn</strong></p>
 </div>
 
 ### 🐍 **Programming Languages**
@@ -115,7 +114,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ---
 
-![Wave Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=2)
+---
 
 ---
 
@@ -132,7 +131,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ---
 
-![Wave Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=2)
+---
 
 ---
 
@@ -142,7 +141,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ### 🩸 **Blood Donation Management System**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VamshiK07&repo=blood-donation-management-system&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" width="100%" alt="Blood Donation Management System">
+[![Repository: Blood Donation Management System](https://img.shields.io/badge/Repository-Blood%20Donation%20Management%20System-8B5CF6?logo=github&style=for-the-badge)](https://github.com/VamshiK07/blood-donation-management-system)
 
 **A centralized platform connecting blood donors with patients in need.** Features role-based portals, smart donor matching, inventory lifecycle tracking, and emergency prioritization to streamline the blood donation process.
 
@@ -154,7 +153,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ### 🤖 **MarketMind AI**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VamshiK07&repo=marketmind&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" width="100%" alt="MarketMind AI">
+[![Repository: MarketMind AI](https://img.shields.io/badge/Repository-MarketMind%20AI-8B5CF6?logo=github&style=for-the-badge)](https://github.com/VamshiK07/marketmind)
 
 **AI-powered market analysis platform** that analyzes market trends and provides intelligent insights using data analytics and machine learning techniques to support data-driven decision-making.
 
@@ -166,7 +165,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ### 🏦 **Intelli-Credit AI**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VamshiK07&repo=Intelli-Credit-AI&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" width="100%" alt="Intelli-Credit AI">
+[![Repository: Intelli-Credit AI](https://img.shields.io/badge/Repository-Intelli-Credit%20AI-8B5CF6?logo=github&style=for-the-badge)](https://github.com/VamshiK07/Intelli-Credit-AI)
 
 **AI-powered corporate credit appraisal platform** that analyzes financial documents, extracts insights, and generates risk scores and credit recommendations using advanced AI agents and document processing.
 
@@ -186,7 +185,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ---
 
-![Wave Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=2)
+---
 
 ---
 
@@ -207,35 +206,31 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ---
 
-![Wave Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=2)
+---
 
 ---
 
 ## 🏆 **GITHUB TROPHIES**
 
 <div align="center">
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=VamshiK07&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience)](https://github.com/VamshiK07)
-
+  <p><strong>🏆 GitHub achievements and contributions are reflected in the repositories and activity shown on your profile.</strong></p>
 </div>
 
 ---
 
-![Wave Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=2)
+---
 
 ---
 
 ## 📈 **CONTRIBUTION GRAPH**
 
 <div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VamshiK07&bg_color=0D1117&color=00D9FF&line=8B5CF6&point=F43F5E&area=true&area_color=8B5CF6&hide_border=true&custom_title=Vamshi%27s%20Contribution%20Graph)
-
+  <p><strong>📈 Contribution activity is visible through your GitHub profile timeline, repositories, and commit history.</strong></p>
 </div>
 
 ---
 
-![Wave Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=2)
+---
 
 ---
 
@@ -245,17 +240,17 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 | 🎯 Skill | 📊 Progress |
 |---------|------------|
-| Deep Learning & Neural Networks | ![75%](https://progress-bar.dev/75/?title=Deep+Learning&color=8B5CF6&width=200) |
-| Natural Language Processing | ![60%](https://progress-bar.dev/60/?title=NLP&color=00D9FF&width=200) |
-| MLOps & Model Deployment | ![50%](https://progress-bar.dev/50/?title=MLOps&color=10B981&width=200) |
-| Cloud AI (GCP / AWS) | ![45%](https://progress-bar.dev/45/?title=Cloud+AI&color=F43F5E&width=200) |
-| LLMs & Prompt Engineering | ![70%](https://progress-bar.dev/70/?title=LLMs&color=F59E0B&width=200) |
+| Deep Learning & Neural Networks | ![75%](https://img.shields.io/badge/Progress-75%25-8B5CF6?style=for-the-badge&labelColor=111827) |
+| Natural Language Processing | ![60%](https://img.shields.io/badge/Progress-60%25-00D9FF?style=for-the-badge&labelColor=111827) |
+| MLOps & Model Deployment | ![50%](https://img.shields.io/badge/Progress-50%25-10B981?style=for-the-badge&labelColor=111827) |
+| Cloud AI (GCP / AWS) | ![45%](https://img.shields.io/badge/Progress-45%25-F43F5E?style=for-the-badge&labelColor=111827) |
+| LLMs & Prompt Engineering | ![70%](https://img.shields.io/badge/Progress-70%25-F59E0B?style=for-the-badge&labelColor=111827) |
 
 </div>
 
 ---
 
-![Wave Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=2)
+---
 
 ---
 
@@ -279,7 +274,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ---
 
-![Wave Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=2)
+---
 
 ---
 
@@ -313,7 +308,7 @@ I'm always interested in collaborating on exciting **Data Science**, **Machine L
 
 </div>
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+---
 
 <br>
 

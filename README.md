@@ -194,14 +194,14 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 <div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VamshiK07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B5CF6&text_color=8B949E&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=VamshiK07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B5CF6&text_color=8B949E&include_all_commits=true&count_private=true&show=prs_merged_percentage,prs_reviewed" alt="GitHub Stats" width="48%" />
 <img src="https://streak-stats.demolab.com?user=VamshiK07&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F43F5E&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
 
 </div>
 
 <div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiK07&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&layout=compact&langs_count=8" alt="Top Languages" width="70%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VamshiK07&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&layout=compact&langs_count=8" alt="Top Languages" width="70%" />
 
 </div>
 

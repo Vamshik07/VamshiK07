@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>👋 Ambati Vamshi Krishna</h1>
-  <h3>Data Science | AI | ML Engineer</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Ambati%20Vamshi%20Krishna&fontSize=38&fontAlignY=36&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Engineer&descFontSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -9,6 +8,10 @@
     📊 Data Science Student • 🤖 AI & ML Enthusiast<br>
     🌐 Full-Stack Developer • 🚀 Building Real-World AI Projects
   </p>
+  
+  <a href="https://github.com/VamshiK07">
+    <img src="https://komarev.com/ghpvc/?username=VamshiK07&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
 </div>
 
 ---
@@ -41,10 +44,6 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 | ⚡ | Always exploring — Currently diving into MLOps & LLMs |
 
 </div>
-
----
-
----
 
 ---
 
@@ -114,10 +113,6 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ---
 
----
-
----
-
 ## 🔗 **CONNECT WITH ME**
 
 <div align="center">
@@ -128,10 +123,6 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VamshiK07)
 
 </div>
-
----
-
----
 
 ---
 
@@ -185,52 +176,60 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 ---
 
----
-
----
-
 ## 📊 **GITHUB STATISTICS**
 
-<div align="center" style="font-family: 'Times New Roman', Times, serif;">
+<div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=VamshiK07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B5CF6&text_color=8B949E&include_all_commits=true&count_private=true&show=prs_merged_percentage,prs_reviewed" alt="GitHub Stats" width="60%" />
-<img src="https://streak-stats.demolab.com?user=VamshiK07&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F43F5E&currStreakLabel=00D9FF" alt="GitHub Streak" width="35%" />
+<table border="0" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" valign="top" style="border: none;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VamshiK07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195px" />
+    </td>
+    <td align="center" valign="top" style="border: none;">
+      <img src="https://streak-stats.demolab.com/?user=VamshiK07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195px" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VamshiK07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="65%" />
 
 </div>
-
-<div align="center" style="font-family: 'Times New Roman', Times, serif; margin-top: 10px;">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VamshiK07&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&layout=compact&langs_count=8" alt="Top Languages" width="70%" />
-
-</div>
-
----
-
----
 
 ---
 
 ## 🏆 **GITHUB TROPHIES**
 
 <div align="center">
-  <p><strong>🏆 GitHub achievements and contributions are reflected in the repositories and activity shown on your profile.</strong></p>
+  <p><strong>🏆 GitHub achievements & contributions updated automatically live</strong></p>
+  <a href="https://github.com/VamshiK07">
+    <img src="https://github-profile-trophy.vercel.app/?username=VamshiK07&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" width="90%" />
+  </a>
 </div>
 
 ---
 
----
-
----
-
-## 📈 **CONTRIBUTION GRAPH**
+## 📈 **CONTRIBUTION GRAPH & ACTIVITY**
 
 <div align="center">
-  [![GitHub Activity Graph](https://ghchart.rshah.org/VamshiK07)](https://github.com/VamshiK07)
+
+  <p><strong>⚡ Live Contribution Wave & Activity Metrics</strong></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VamshiK07&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+
+  <br/><br/>
+
+  <p><strong>🐍 Live Contribution Snake Animation</strong></p>
+  <img src="https://raw.githubusercontent.com/VamshiK07/VamshiK07/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
+
+  <br/><br/>
+
+  <p><strong>🟩 Annual Contribution Activity Grid</strong></p>
+  <a href="https://github.com/VamshiK07">
+    <img src="https://ghchart.rshah.org/8b5cf6/VamshiK07" alt="GitHub Contribution Matrix" width="100%" />
+  </a>
+
 </div>
-
----
-
----
 
 ---
 
@@ -247,10 +246,6 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 | LLMs & Prompt Engineering | ![70%](https://img.shields.io/badge/Progress-70%25-F59E0B?style=for-the-badge&labelColor=111827) |
 
 </div>
-
----
-
----
 
 ---
 
@@ -271,10 +266,6 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 🏆 **Gen-AI Forge Hackathon — 3rd Prize Winner** — *MLRITM / PACE* (2026)
 
 </div>
-
----
-
----
 
 ---
 

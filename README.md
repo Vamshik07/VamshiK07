@@ -193,12 +193,12 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 
 <div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<img src="https://github-stats-extended.vercel.app/api?username=VamshiK07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B5CF6&text_color=8B949E&include_all_commits=true&count_private=true&show=prs_merged_percentage,prs_reviewed" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com?user=VamshiK07&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F43F5E&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=VamshiK07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B5CF6&text_color=8B949E&include_all_commits=true&count_private=true&show=prs_merged_percentage,prs_reviewed" alt="GitHub Stats" width="60%" />
+<img src="https://streak-stats.demolab.com?user=VamshiK07&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F43F5E&currStreakLabel=00D9FF" alt="GitHub Streak" width="35%" />
 
 </div>
 
-<div align="center" style="font-family: 'Times New Roman', Times, serif;">
+<div align="center" style="font-family: 'Times New Roman', Times, serif; margin-top: 10px;">
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VamshiK07&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&layout=compact&langs_count=8" alt="Top Languages" width="70%" />
 
@@ -225,7 +225,7 @@ I'm a passionate **Data Science Student** with a strong foundation in building d
 ## 📈 **CONTRIBUTION GRAPH**
 
 <div align="center">
-  <p><strong>📈 Contribution activity is visible through your GitHub profile timeline, repositories, and commit history.</strong></p>
+  [![GitHub Activity Graph](https://ghchart.rshah.org/VamshiK07)](https://github.com/VamshiK07)
 </div>
 
 ---
